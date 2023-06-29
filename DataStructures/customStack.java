@@ -1,4 +1,4 @@
-package  guru;
+package DataStructures;
 
 public class customStack {
     protected    int[] data;
